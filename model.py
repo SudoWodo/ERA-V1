@@ -5,6 +5,21 @@ import torch.nn.functional as F
 import torch.optim as optim
 from torchvision import datasets, transforms
 
+import matplotlib.pyplot as plt
+
+def plot_data(train_loader):
+  batch_data, batch_label = next(iter(train_loader)) 
+
+  fig = plt.figure()
+
+  for i in range(12):
+      plt.subplot(3,4,i+1)
+      plt.tight_layout()
+      plt.imshow(batch_data[i].squeeze(0), cmap='gray')
+      plt.title(batch_label[i].item())
+      plt.xticks([])
+      plt.yticks([])
+
 # Train data transformations
 train_transforms = transforms.Compose([
     transforms.RandomApply([transforms.CenterCrop(22), ], p=0.1),
