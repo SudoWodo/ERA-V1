@@ -1,8 +1,16 @@
 # ERA-V1
-First git related assignment from session 5
+Second git related assignment from session 6. The session 6 contains 2 parts. Part 1 deals with details of back propogation and it's literal implementation in a excel sheet for a very simple neural network. The part 2 challenges us to make a neural network that would achive 99.4% acccuracy on MNSIT dataset with some constraints on the model design.
 
-## The requirements
-The requirments of the project are in requirements.txt 
+## Excel and Back Propagation (Part 1)
+![image](https://github.com/SudoWodo/ERA-V1/assets/82159869/f5270b8b-f96a-4236-af30-0937d935c00f)
+![image](https://github.com/SudoWodo/ERA-V1/assets/82159869/91cffd02-9a84-4843-8ceb-62e941a7738e)
+![image](https://github.com/SudoWodo/ERA-V1/assets/82159869/59d54f80-2bde-477c-925d-3a69d0b51f0b)
+![image](https://github.com/SudoWodo/ERA-V1/assets/82159869/3372a4d2-5842-4f2f-a887-689fcfc66738)
+![image](https://github.com/SudoWodo/ERA-V1/assets/82159869/19c8bd02-012d-42f2-a856-58a9bbf16cdc)
+![image](https://github.com/SudoWodo/ERA-V1/assets/82159869/8f49f40c-d80e-4089-b446-d36de9ea245b)
+![image](https://github.com/SudoWodo/ERA-V1/assets/82159869/6db9c538-11dc-404a-a37a-a523915d2f68)
+
+
 
 ## Module structure
 1. utils.py - contains the the utility functions
