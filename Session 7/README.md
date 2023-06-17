@@ -1,7 +1,7 @@
 # ERA-V1
-The Thrid git related assignment from session 7. The Task is to train a model on MNIST data set to achive 99.4% accuracy with following constraint:-
+The Third git related assignment from session 7. The Task is to train a model on MNIST data set to achive 99.4% accuracy with following constraint:-
 1. The number of parameters should be less than 8k.
-2. The number of epochs should be less than 20.
+2. The number of epochs should be less than 15.
 
 Along with maintaining the constrains we must also follow good coding practices and make documentation to explain out thinking process. The thinking process must be represented in three blocks of code where each block represents a successive attempt to solve the problem. Each block must contain three points :-
 1. The target of current block
@@ -14,7 +14,7 @@ The requirments of the project are in requirements.txt
 ## Module structure
 1. utils.py - contains the the utility functions
 2. model.py - contains the module related classes and functions
-3. S5.ipynb - contains the driver code which calls the functions from utils and model
+3. S7 - Block3.ipynb - contains the driver code which calls the functions from utils and model
 4. readme - file is there for other people to understand the over all flow of the project.
 
 # Sample Data
