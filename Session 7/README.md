@@ -81,22 +81,18 @@ The current assigment 7 takes up from assignment 6 and makes it harder, thus let
         AvgPool2d-34             [-1, 16, 1, 1]               0
            Conv2d-35             [-1, 10, 1, 1]             160
 
-Total params: 7,904
-Trainable params: 7,904
-Non-trainable params: 0
-----------------------------------------------------------------
-Input size (MB): 0.00
-Forward/backward pass size (MB): 1.21
-Params size (MB): 0.03
-Estimated Total Size (MB): 1.24
-----------------------------------------------------------------
-Total params: 593,200
-Trainable params: 593,200
-Non-trainable params: 0
+Total params: 7,904 <br>
+Trainable params: 7,904 <br>
+Non-trainable params: 0 <br>
 
-Input size (MB): 0.00
-Forward/backward pass size (MB): 0.67
-Params size (MB): 2.2
-Estimated Total Size (MB): 2.94
+Input size (MB): 0.00 <br>
+Forward/backward pass size (MB): 1.21 <br>
+Params size (MB): 0.03 <br>
+Estimated Total Size (MB): 1.24 <br>
+
+# Training logs Final Model
+![image](https://github.com/SudoWodo/ERA-V1/assets/82159869/a371fcb1-acd8-40cf-91ed-c429d2830924)
 
 # Training And Testing Plot For Final Model
+![image](https://github.com/SudoWodo/ERA-V1/assets/82159869/ec3eb33f-6f4c-4981-af06-6df14bea0bc5)
+
